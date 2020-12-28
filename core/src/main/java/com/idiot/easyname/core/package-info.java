@@ -1,0 +1,1 @@
+package com.idiot.easyname.core;
